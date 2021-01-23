@@ -15,3 +15,11 @@ Canny Edge Detector is an implementation of the edge detection method defined by
 2. Compute the gradient magnitude and orientation using derivative masks.
 3. Perform non-maximum suppression.
 4. Perform hysteresis thresholding.
+
+The input of this program is the file path to an image of your choice.
+
+## Build Instructions
+
+1. Clone the repository.
+2. Open the directory with Terminal.
+3. Run the program with the following instruction: `python run.py <path_to_image>`

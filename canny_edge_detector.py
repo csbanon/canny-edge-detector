@@ -1,11 +1,12 @@
 """
-Carlos Santiago Bañón
-
 Canny Edge Detector
+By Carlos Santiago Bañón
+
 canny_edge_detector.py
+Defines the Canny Edge Detector.
 """
 
-import matplotlib.image as mpimg
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import ndimage

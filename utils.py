@@ -1,4 +1,14 @@
+"""
+Canny Edge Detector
+By Carlos Santiago Bañón
+
+utils.py
+Contains a function for 1-D image convolution.
+"""
+
+
 import numpy as np
+
 
 def convolve1d(I, G, axis=0):
   """
